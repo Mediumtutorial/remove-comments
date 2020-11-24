@@ -1,0 +1,20 @@
+{
+  "name": "remove-comments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "clean": "node index.js"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.1.6",
+    "prettier": "^2.2.0",
+    "strip-comments": "^2.0.1",
+    "terser": "^5.5.0"
+  }
+}
